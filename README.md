@@ -8,5 +8,4 @@ Easy Setup: Quick and user-friendly interface, so you spend less time searching 
 🛠️ Technologies Used
 - Python: Powering the backend.
 - Pandas & NumPy: For data manipulation.
-- Scikit-learn: Driving the recommendation engine.
-- Streamlit (if used): For a sleek web app interface.
+
